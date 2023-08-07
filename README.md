@@ -2,7 +2,7 @@
 The project provides the predicted results of open-source medical image datasets using state-of-the-art models to improve the efficiency of secondary annotations or directly use for researching.
   
 ## About The Pretrained Model
-The X-ray chest model that detects 65 chest charactors or deseases was trained on more than 1 million images. The performance of main class as follow:
+The X-ray chest model that detects 65 chest charactors or deseases was trained on more than 1 million images. The performance of main classes as follow:
 |Label|ROC|Label|ROC|
 |----|----|----|----|
 |Tuberculosis|0.996|Nodule|0.940|
